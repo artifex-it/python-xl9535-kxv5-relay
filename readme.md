@@ -1,3 +1,5 @@
+#Note: this fork work in Python
+
 # MicroPython XL9535 KxV5 Relay
 
 A MicroPython library for jxl XL9535-KxV5 I2C relay boards.
